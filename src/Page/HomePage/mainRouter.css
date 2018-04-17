@@ -1,0 +1,89 @@
+.mainRouterOn {
+    padding: 10px 10px 10px 266px;
+    transition: padding .35s;
+    -moz-transition: padding .35s; /* Firefox 4 */
+    -webkit-transition: padding .35s; /* Safari 和 Chrome */
+    -o-transition: padding .35s; /* Opera */
+}
+
+.mainRouterOff {
+    padding: 10px 10px 10px 90px;
+    transition: padding .35s;
+    -moz-transition: padding .35s; /* Firefox 4 */
+    -webkit-transition: padding .35s; /* Safari 和 Chrome */
+    -o-transition: padding .35s; /* Opera */
+}
+
+.mainPage {
+    padding: 20px 0;
+    margin-top: 10px;
+    background: #fff;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.ant-advanced-search-form {
+    padding: 24px;
+    /*background: #fbfbfb;*/
+    /*border: 1px solid #d9d9d9;*/
+    border-radius: 6px;
+}
+
+.ant-advanced-search-form .ant-form-item {
+    display: flex !important;
+}
+
+.ant-advanced-search-form .ant-form-item-control-wrapper {
+    flex: 1 !important;
+}
+
+.ant-calendar-body {
+    padding: 0 !important;
+}
+
+.ant-advanced-search-form .ant-input {
+    height: auto !important;
+}
+
+.ant-form-item {
+    display: flex !important;
+}
+
+.ant-form-item-control-wrapper {
+    flex: 1 !important;
+}
+
+.listCard {
+    margin-top: 10px;
+    min-height: 407px;
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 3px 8px #d3ddeb;
+    border-color: transparent;
+}
+
+.ListHeader {
+    color: #333;
+    width: 100%;
+    height: 55px;
+    border-bottom: 1px solid #E4E4E4;
+    font-size: 22px;
+    margin-left: 0!important;
+    font-weight: 800;
+    padding-left: 50px;
+    line-height: 55px;
+    letter-spacing: 2px;
+}
+
+.listSearch {
+    padding: 5px 1%;
+}
+
+.listTable {
+    padding: 5px 1%;
+}
+
+.pageOperation {
+    padding: 5px 1%;
+}
+.ant-table td { white-space: nowrap; }
